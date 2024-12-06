@@ -1,0 +1,208 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#conteiner-Logo {
+    max-width: 1020px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#conteiner-conteiner {
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+#conteiner-nextmover {
+    margin: 0 auto;
+    display: inline;
+}
+
+#About-conteiner {
+    display: inline-block;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: #323232;
+    font-family: Inter;
+    font-size: 18px;
+}
+
+
+#About {
+    color: #FF5DA3;
+    font-family: Inter;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#offer {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#contact {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#Help {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#contact-us {
+    display: inline-block;
+}
+
+#conteiner-contact {
+    padding: 8px 16px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 14px;
+    border-radius: 8px;
+    background: #00AC25;
+    border: none;
+}
+
+#certified {
+    margin-top: 250px;
+}
+
+#conteiner-certified {
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 60px;
+    width: 1140px;
+    margin: 0 auto;
+}
+
+#instructor {
+    color: #FF5DA3;
+    font-family: Inter;
+}
+
+#opportunity {
+    width: 1175px;
+    text-align: center;
+    margin: 0 auto;
+    color: #000;
+    font-size: 24px;
+    margin-top: 24px;
+}
+
+#many-perks {
+    color: #000;
+    font-family: "Inter";
+    font-size: 48px;
+    text-align: center;
+    font-weight: 700;
+}
+
+#Enjoy-many-perks {
+    text-align: center;
+    margin-top: 24px;
+}
+
+#Unlock-opportunity {
+    width: 665px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 24px;
+}
+
+#experience {
+    color: #6941C6;
+    text-align: center;
+    font-family: "Hind Vadodara";
+    font-size: 24px;
+}
+
+#Become-instructor {
+    padding: 16px 24px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    border-radius: 8px;
+    background: #00AC25;
+    border: none;
+}
+
+#conteiner-instructor {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 24px;
+}
+
+#content {
+    height: 128px;
+    margin-left: 350px;
+}
+
+#content-conteiner {
+    background: var(--Colors-Background-bg-brand-section, #53389E);
+    margin-top: 535px;
+
+}
+
+#instructor-content {
+    margin-top: 50px;
+}
+
+#conteiner-Overview {
+    color: var(--Component-colors-Components-Footers-footer-button-fg, #E9D7FE);
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: var(--Font-size-text-md, 16px);
+    display: inline-block;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+#Overview {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 16px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#Features {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#Pricing {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#Careers {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#Help {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#Privacy {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#Untitled-UI {
+    display: inline-block;
+}
+
+#contact-Untitled {
+    color: #D6BBFB;
+    text-align: right;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+}
